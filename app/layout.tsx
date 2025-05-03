@@ -16,6 +16,7 @@ export const metadata: Metadata = {
   icons : {
     icon: "/favicon.ico",
   }, 
+  manifest: "/manifest.json", // 👈 PWA manifest
   description:
     "Une plateforme SaaS complète pour les écoles islamiques, les ressources religieuses et la communauté musulmane",
   generator: "IslamiC",
